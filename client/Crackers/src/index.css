@@ -1,0 +1,11 @@
+body{
+  background-color: bisque;
+  color: rgba(9, 8, 8, 0.775);
+}
+.nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: aliceblue;
+  background-color: rgb(249, 128, 128);
+}
